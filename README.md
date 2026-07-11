@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Yamini Tantuway
 
+<img align="right" width="360" alt="Yamini — building with AI & code" src="https://raw.githubusercontent.com/yamini-tan/yamini-tan/main/assets/working-woman.png"/>
+
+
 🎓 AI & Machine Learning Engineering student at Cambridge Institute of Technology, Bengaluru (CGPA: **9.31**).
 
 I'm passionate about building software that solves real-world problems through AI, backend engineering, and full-stack development. I enjoy designing scalable systems, exploring machine learning, and writing clean, maintainable code.
